@@ -1,0 +1,6 @@
+{
+  "name": "ImageToVid.com",
+  "description": "A 3-keyframe cinematic pan/zoom photo slideshow studio with a continuous global audio timeline, real-time canvas player, and high-fidelity WebM exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
